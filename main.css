@@ -122,6 +122,19 @@ a {
 #work {
 	margin: auto;
 	width: 50%;
+	height: 100%;
+	scroll-margin-top: 8em;
+}
+
+#experience {
+	padding-top: 12px;
+}
+
+#projects {
+	margin: auto;
+	width: 50%;
+	height: 100%;
+	scroll-margin-top: 8em;
 }
 
 .heading {
@@ -140,6 +153,7 @@ a {
 
 .date {
 	width: 33%;
+	vertical-align:top;
 }
 
 .detail {
